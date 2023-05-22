@@ -1,5 +1,4 @@
 Pandas: https://colab.research.google.com/drive/1TVwqkTBne2fKhIiUxkpESyVSjJ4L0Y9-?usp=share_link
 Numpy: https://colab.research.google.com/drive/14C6YTqhxbcxzqhWdRPXsV2qeI0WFK7Hb?usp=share_link
 Matplotlib: https://colab.research.google.com/drive/1CWJ0LDZslMtQSn8s4QNE0ZsHiCK0j86A?usp=share_link
-Matplotlib 2: https://colab.research.google.com/drive/1CWJ0LDZslMtQSn8s4QNE0ZsHiCK0j86A?usp=share_link
 Machine learning - Titanic Prediction: https://colab.research.google.com/drive/1koMyX24i0QFED5AeotxIFoqucIhjUtQY?usp=share_link
