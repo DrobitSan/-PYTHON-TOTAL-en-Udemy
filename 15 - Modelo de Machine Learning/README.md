@@ -10,7 +10,7 @@ hubiese sobrevivido en el Titanic, ver cuales son las variables mas significativ
 
 
 [EN]
-It's a Machine Learning project using Python libraries as Pandas, Numpy, Matplotlib, Seaborn y Sklearn.
+It's a Machine Learning project using Python libraries as Pandas, Numpy, Matplotlib, Seaborn and Sklearn.
 
 By using the database of the passenger's on the Titanic, I can train a Machine Learning model wich predicts if a certain passenger whould've 
 survived in the Titanic, watch wich variables are the most significant ones and compare the predictions of the model with the real data.
